@@ -7,5 +7,5 @@ import { environment } from '@environments/environment';
   templateUrl: './side-menu-header.component.html',
 })
 export class SideMenuHeaderComponent {
-  envs = environment;
+  envs:any = environment;
 }

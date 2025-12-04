@@ -3,9 +3,9 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
-    "baseUrl": "./",
+    // "baseUrl": "./",
     "paths": {
-      "@environments/*": ["src/environments/*"]
+      "@environments/*": ["./src/environments/*"]
     },
 
 
